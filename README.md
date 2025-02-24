@@ -1,0 +1,2 @@
+# AI_girl_friend
+基于pygame框架下deepseek接口的AI女友
