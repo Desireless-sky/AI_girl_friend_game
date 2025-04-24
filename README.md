@@ -1,4 +1,3 @@
-# AI_girl_friend_game
 # 基于pygame框架下deepseek接口的AI女友
 
 ## 依赖下载
